@@ -1,0 +1,6 @@
+@MakeItOptimal_HostAddress = http://localhost:5028
+
+GET {{MakeItOptimal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
